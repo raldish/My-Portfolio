@@ -266,38 +266,6 @@ h2 {
   cursor: pointer;
   transition: 0.5s ease;
 }
-/*=============== EXPERIENCE SECTION ===============*/
-/*.timeline {
-  position: relative;
-}
-.timeline::before {
-  content: "";
-  position: absolute;
-  width: 2px;
-  top: 55px;
-  height: calc(100% - 100px);
-  background-color: var(--accent-color);
-  z-index: 100;
-}
-.timeline-date {
-  position: relative;
-}
-.timeline-date::before {
-  content: "";
-  position: absolute;
-  background-color: var(--accent-color);
-  left: -25px;
-  top: 5px;
-  width: 12px;
-  height: 12px;
-  border-radius: 50%;
-}
-.timeline-items {
-  margin-left: 20px;
-}
-.timeline-item {
-  margin: 50px 0;
-}==*/
 
 /*=============== FORM ===============*/
 form {
