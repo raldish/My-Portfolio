@@ -406,3 +406,8 @@ textarea {
   width: 0;
   height: 0;
 }
+
+.continue {
+  display: flex;
+  align-items: center;
+}
