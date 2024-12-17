@@ -104,7 +104,7 @@ h2 {
   overflow: auto;
 }
 .header-img {
-  width: 190px;
+  width: 150px;
   height: 140px;
   border-radius: 50%;
   margin: 10px;
@@ -405,4 +405,5 @@ textarea {
   padding: 0;
   width: 0;
   height: 0;
+}
 }
